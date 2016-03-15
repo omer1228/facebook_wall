@@ -1,0 +1,13 @@
+1) What selector are you going to use for the click event on the button?
+
+
+2) What selector are you going to use to add the posts to the page?
+
+
+3) What selector are you going to use to get the user's input in the click event handler?
+
+
+4) What function are you going to use to get the user's input in the click event handler?
+
+
+5) What function are you going to use to add the HTML to the page (pay special attention to the order that new posts should appear in)?
